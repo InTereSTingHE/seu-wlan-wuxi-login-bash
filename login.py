@@ -22,5 +22,6 @@ headers = {
     }
 
 req = requests.get(url, headers = headers)
+
 print(url)
 print(req)
