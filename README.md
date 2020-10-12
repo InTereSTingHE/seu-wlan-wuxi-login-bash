@@ -5,5 +5,5 @@ bat使用前编辑bat中user_account为一卡通号，wlan_user_ip为当前分�
 
 py可自动获取IP地址登录，输入一卡通号
 
-停更，转移到
-<br/>[路由器端登录认证](https://github.com/InTereSTingHE/seu-wlan-on-openwrt)
+停更，转移到  
+[路由器端登录认证](https://github.com/InTereSTingHE/seu-wlan-on-openwrt)
